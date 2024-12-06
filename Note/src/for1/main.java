@@ -1,6 +1,6 @@
-package for循环;
+package for1;
 
-public class main循环 {
+public class main {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println();
